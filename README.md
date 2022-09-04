@@ -12,3 +12,4 @@ Vous pouvez la télécharger et la comparer avec votre installation et configura
 •	Pour la machine : User est mohamed et mot de passe est postfix.
 ---
 •	Pour MySQL : User est root et mot de passe est Mohamed0000+.
+---
