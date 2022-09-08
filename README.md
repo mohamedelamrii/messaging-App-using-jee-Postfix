@@ -1,10 +1,10 @@
 # messaging-App
 ### installation des serveurs 
 
-Ci-joint le lien vers la documentation que j'ai utilisée pour l'installation des serveurs postfix , devcot et mysql :
+Ci-joint le lien vers la documentation que j'ai utilisée pour l'installation des serveurs postfix , devcot et mysql,
 link : https://workaround.org/ispmail/jessie/preparing-database
 
-Et voici aussi ma machine virtuelle : 
+Et voici aussi ma machine virtuelle ,
 link:https://drive.google.com/file/d/1PJCI--LOL8M0TAiHgmx_2elfkiqvqX2V/view?usp=sharing
 
 Vous pouvez la télécharger et la comparer avec votre installation et configuration.
